@@ -1,0 +1,18 @@
+{
+  "name": "@1xtension/util-number",
+  "version": "1.0.1",
+  "description": "number util",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
